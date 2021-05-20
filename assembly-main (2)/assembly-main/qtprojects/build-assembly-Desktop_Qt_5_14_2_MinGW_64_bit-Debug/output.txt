@@ -1,0 +1,15 @@
+\definecolor{arrowPenColor}{rgb}{0, 0, 0}
+\definecolor{roundPenColor}{rgb}{0, 0, -0.17}
+\definecolor{roundBrushColor}{rgb}{1, 1, 1}
+\begin{center}
+	\begin{tikzpicture}[scale=0.03]
+		\draw [line width = 1, arrowPenColor] (100,-120) -- (324,-110);
+		\draw [line width = 1, arrowPenColor] (324,-110) -- (430,-300);
+		\draw [line width = 1, arrowPenColor] (430,-300) -- (177,-352);
+		\draw [line width = 1, arrowPenColor] (177,-352) -- (86,-122);
+		\draw[line width = 1, roundPenColor, fill = roundBrushColor](185, -352) circle(25);
+		\draw[line width = 1, roundPenColor, fill = roundBrushColor](319, -103) circle(25);
+		\draw[line width = 1, roundPenColor, fill = roundBrushColor](94, -127) circle(25);
+		\draw[line width = 1, roundPenColor, fill = roundBrushColor](433, -297) circle(25);
+	\end{tikzpicture}
+\end{center}

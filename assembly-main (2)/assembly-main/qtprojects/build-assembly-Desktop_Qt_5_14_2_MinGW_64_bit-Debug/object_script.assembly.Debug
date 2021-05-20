@@ -1,0 +1,13 @@
+debug/appearance.o
+debug/arrow.o
+debug/circle.o
+debug/main.o
+debug/mainwindow.o
+debug/sqribblearea.o
+debug/tex.o
+debug/moc_appearance.o
+debug/moc_arrow.o
+debug/moc_circle.o
+debug/moc_mainwindow.o
+debug/moc_scribblearea.o
+debug/moc_tex.o
